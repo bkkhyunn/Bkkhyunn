@@ -45,6 +45,7 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white" alt="bootstrap"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="js"/>
     <img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=SQLite&logoColor=white" alt="sqlite"/>
+    <img src="https://img.shields.io/badge/Poetry-60A5FA?style=plastic&logo=poetry&logoColor=white" alt="poetry"/>
     </p>
     </div>
     </details>
@@ -74,6 +75,7 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white" alt="docker"/>
     <img src="https://img.shields.io/badge/Amazon EC2-232F3E?style=plastic&logo=amazonec2&logoColor=white" alt="amazon ec2"/>
     <img src="https://img.shields.io/badge/Amazon S3-569A31?style=plastic&logo=amazons3&logoColor=white" alt="amazon s3"/>
+    <img src="https://img.shields.io/badge/Poetry-60A5FA?style=plastic&logo=poetry&logoColor=white" alt="poetry"/>
     <img src="https://img.shields.io/badge/Wandb-FFBE00?style=plastic&logo=weightsandbiases&logoColor=white" alt="wandb"/>
     </p>
     <p align="left">
@@ -203,6 +205,7 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white" alt="torch"/>
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=OpenCV&logoColor=white" alt="opencv"/>
     <img src="https://buly.kr/9MOQX9k" alt="MM Family"/>
+    <img src="https://img.shields.io/badge/Poetry-60A5FA?style=plastic&logo=poetry&logoColor=white" alt="poetry"/>
     <img src="https://img.shields.io/badge/Wandb-FFBE00?style=plastic&logo=weightsandbiases&logoColor=white" alt="wandb"/>
     </p>
     </div>
