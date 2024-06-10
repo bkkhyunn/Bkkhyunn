@@ -18,11 +18,11 @@
 
 ### Experience
 
-- 🟫 [Team Project] HangHae99 AI Web service Hackathon (2024.05.31 ~ 2024.06.01)
-- 🟩 [Team Project] NAVER Connect Foundation boostcamp AI Tech 6th (2023.11.06 ~ 2024.04.02)
-- 🟦 [Internship] T3Q Inc. AI Service Engineer (2023.08.01 ~ 2023.10.31)
-- 🟧 [Team Project] CJ ons ICT IS 1th (2023.07 ~ 2023.08)
-- 🟥 [Team Project] KOR SW_Academy 2th (2023.03.02 ~ 2023.06.21)
+- 🟫 [Team Project] **HangHae99 AI Web service Hackathon** (2024.05.31 ~ 2024.06.01)
+- 🟩 [Team Project] **NAVER Connect Foundation boostcamp AI Tech 6th** (2023.11.06 ~ 2024.04.02)
+- 🟦 [Internship] **T3Q Inc. AI Service Engineer** (2023.08.01 ~ 2023.10.31)
+- 🟧 [Team Project] **CJ ons ICT IS 1th** (2023.07 ~ 2023.08)
+- 🟥 [Team Project] **KOR SW_Academy 2th** (2023.03.02 ~ 2023.06.21)
 
 
 ### Projects
@@ -34,6 +34,7 @@
     1️⃣ 디지털 문해력을 증진시키는 AI 애클리케이션을 개발하여, 논리적 사고와 판단을 증진시키고 교육 불평등을 해소하고자 만든 서비스
 
     2️⃣ 역할: `Web Page 개발`, `프롬프트 엔지니어링`
+
     3️⃣ tech stack
     <p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" alt="python"/>
@@ -56,6 +57,7 @@
     1️⃣ 무인매장에 설치된 CCTV 를 활용하여 실시간으로 이상행동을 탐지하고, 사후 처리를 위해서 녹화 영상 내 이상행동 타임라인 제공 및 스크린샷 앨범 기능을 제공하는 서비스.
 
     2️⃣ 역할: `팀장(PM)`, `서비스 기획 및 전체 파이프라인 설계`, `DB 설계`, `WAS 개발`, `실시간 통신 구현`, `LSTM Autoencoder 를 활용한 이상탐지 모델 구현`
+
     3️⃣ tech stack
     <p align="left">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" alt="linux"/>
@@ -89,6 +91,7 @@
     1️⃣ 사내에서 유통되는 문서 및 도면을 대상으로 AI 를 활용한 핵심정보 식별 및 분류 자동화 PoC
 
     2️⃣ 역할: `문서 Lake 구축 보조`, `OCR 및 핵심 영역 식별`
+
     3️⃣ tech stack
     <p align="left">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" alt="linux"/>
@@ -112,6 +115,7 @@
     1️⃣ 원문의 변형 없이 주요한 문장을 추출하여 요약해주는 모델 개발
 
     2️⃣ 역할: `데이터 분석`, `데이터 전처리`, `임베딩 실험`
+
     3️⃣ tech stack
     <p align="left">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" alt="linux"/>
@@ -137,6 +141,7 @@
     1️⃣ 멀티모달(텍스트, 이미지)을 이용한 식당 추천 시스템 구현
 
     2️⃣ 역할: `데이터 분석`, `ResNet 구현`
+
     3️⃣ tech stack
     <p align="left">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" alt="linux"/>
@@ -160,6 +165,7 @@
     1️⃣ AI 를 활용한 블랙아이스 탐지
 
     2️⃣ 역할: `팀장`, `데이터 수집`, `데이터 전처리 및 라벨링`, `Data Augmentation`, `모델 실험`
+
     3️⃣ tech stack
     <p align="left">
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white" alt="googlecolab"/>
@@ -180,9 +186,13 @@
 
     🟩 NAVER Connect Foundation boostcamp AI Tech 6th 에서 진행한 팀 프로젝트들
     1.[마스크 착용 상태 분류](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_1)
+
     2.[재활용 품목 분류를 위한 Object Detection](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_2)
+
     3.[글자 검출 프로젝트](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_3)
+
     4.[Hand Bone Image Segmentation](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_4)
+
     <p align="left">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" alt="linux"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" alt="python"/>
