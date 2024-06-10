@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning `Deep Learning`, `Machine Learning`, `MLOps`, `Web Programming`, `Data Analysis`, `Statistics`, `linear algebra`, `Algorithm`, `Data Structure`
 - ⚡️ My keywords are `Driven`, `Team-Oriented`, `Energetic`
 
-### Experience
+### 🏃🏻 Experience
 
 - 🟫 [Team Project] **HangHae99 AI Web service Hackathon** (2024.05.31 ~ 2024.06.01)
 - 🟩 [Team Project] **NAVER Connect Foundation boostcamp AI Tech 6th** (2023.11.06 ~ 2024.04.02)
@@ -25,7 +25,7 @@
 - 🟥 [Team Project] **KOR SW_Academy 2th** (2023.03.02 ~ 2023.06.21)
 
 
-### Projects
+### 🗂️ Projects
 - 🟫 [Digital literacy promotion program using AI](https://github.com/bkkhyunn/Hanghae99_hackathon)
     <details>
     <summary>summary</summary>
@@ -55,7 +55,6 @@
     <div markdown="1">
     <br>
     1️⃣ 무인매장에 설치된 CCTV 를 활용하여 실시간으로 이상행동을 탐지하고, 사후 처리를 위해서 녹화 영상 내 이상행동 타임라인 제공 및 스크린샷 앨범 기능을 제공하는 서비스.
-
 
     2️⃣ 역할: `팀장(PM)`, `서비스 기획 및 전체 파이프라인 설계`, `DB 설계`, `WAS 개발`, `실시간 통신 구현`, `LSTM Autoencoder 를 활용한 이상탐지 모델 구현`
 
@@ -91,7 +90,6 @@
     <br>
     1️⃣ 사내에서 유통되는 문서 및 도면을 대상으로 AI 를 활용한 핵심정보 식별 및 분류 자동화 PoC
 
-
     2️⃣ 역할: `문서 Lake 구축 보조`, `OCR 및 핵심 영역 식별`
 
     3️⃣ tech stack
@@ -115,7 +113,6 @@
     <div markdown="1">
     <br>
     1️⃣ 원문의 변형 없이 주요한 문장을 추출하여 요약해주는 모델 개발
-
 
     2️⃣ 역할: `데이터 분석`, `데이터 전처리`, `임베딩 실험`
 
@@ -143,7 +140,6 @@
     <br>
     1️⃣ 멀티모달(텍스트, 이미지)을 이용한 식당 추천 시스템 구현
 
-
     2️⃣ 역할: `데이터 분석`, `ResNet 구현`
 
     3️⃣ tech stack
@@ -166,9 +162,8 @@
     <summary>summary</summary>
     <div markdown="1">
     <br>
-    1️⃣ AI 를 활용한 블랙아이스 탐지
-
-
+    1️⃣ AI 를 활용한 블랙아이스 탐지<br>
+    
     2️⃣ 역할: `팀장`, `데이터 수집`, `데이터 전처리 및 라벨링`, `Data Augmentation`, `모델 실험`
 
     3️⃣ tech stack
