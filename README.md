@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning `Deep Learning`, `Machine Learning`, `MLOps`, `Web Programming`, `Data Analysis`, `Statistics`, `linear algebra`, `Algorithm`, `Data Structure`
 - ⚡️ My keywords are `Driven`, `Team-Oriented`, `Energetic`
 
-### 🏃🏻 Experience
+### 🏃🏻 Experiences
 
 - 🟫 [Team Project] **HangHae99 AI Web service Hackathon** (2024.05.31 ~ 2024.06.01)
 - 🟩 [Team Project] **NAVER Connect Foundation boostcamp AI Tech 6th** (2023.11.06 ~ 2024.04.02)
@@ -178,7 +178,7 @@
     </div>
     </details>
 
-- Others
+- ⬜️ Others
   <details>
     <summary>summary</summary>
     <div markdown="1">
