@@ -1,6 +1,6 @@
 <h1 align='center'>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&color=47F7F5&center=true&vCenter=true&multiline=true&random=false&height=60&lines=%F0%9F%91%8B+Hello!+Bkkhyunn's+github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&color=47F7F5&center=true&vCenter=true&multiline=true&random=false&height=60&lines=%F0%9F%91%8B+Hello!+Bkkhyunn's+github)](https://github.com/bkkhyunn)
 
 </h1>
 
