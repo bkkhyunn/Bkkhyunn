@@ -85,7 +85,7 @@
     </div>
     </details>
     
-- 🟦 **Identify and extract key information LG ensol PoC**
+- 🟦 **Identify and extract key information PoC**
     <details>
     <summary>summary</summary>
     <div markdown="1">
