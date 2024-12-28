@@ -25,7 +25,7 @@
 ### 🗂️ Projects
 * <details>
     <summary>
-    Digital literacy promotion program using AI (<a href="https://github.com/bkkhyunn/Hanghae99_hackathon" target="_blank">Link</a>)
+    Digital Literacy Improvement Program using AI (<a href="https://github.com/bkkhyunn/Hanghae99_hackathon" target="_blank">Link</a>)
     </summary>
     <div markdown="1">
     <br>
@@ -49,7 +49,7 @@
   </details>
 * <details>
     <summary>
-    Real-time Unmanned Store Abnormal Behavior Detection Service (<a href="https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_Final" target="_blank">Link</a>)
+    Real-time Unmanned Store Abnormal Behavior Detection (<a href="https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_Final" target="_blank">Link</a>)
     </summary>
     <div markdown="1">
 
@@ -79,7 +79,7 @@
   </details>
 * <details>
     <summary>
-    Identify and extract key information PoC
+    Core information Identification and Extraction PoC
     </summary>
     <div markdown="1">
     <br>
@@ -102,7 +102,7 @@
     </div>
   </details>
 * <details>
-    <summary>Document Extractive Summary Service</summary>
+    <summary>Digital Document Extractive Summary</summary>
     <div markdown="1">
     <br>
 
