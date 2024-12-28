@@ -75,12 +75,8 @@
         <img src="https://img.shields.io/badge/Poetry-60A5FA?style=plastic&logo=poetry&logoColor=white" alt="poetry"/>
         <img src="https://img.shields.io/badge/Wandb-FFBE00?style=plastic&logo=weightsandbiases&logoColor=white" alt="wandb"/>
         </p>
-        <p align="left">
-        <img src="https://img.shields.io/badge/Yolov8-3776AB?style=plastic&logo=&logoColor=white" alt="yolov8"/>
-        <img src="https://img.shields.io/badge/LSTMAE-3776AB?style=plastic&logo=&logoColor=white" alt="lstmae"/>
-        </p>
     </div>
-    </details>
+  </details>
 * <details>
     <summary>
     Identify and extract key information PoC
@@ -104,13 +100,13 @@
         <img src="https://img.shields.io/badge/LibreofficeCLI-18A303?style=plastic&logo=libreoffice&logoColor=white" alt="libreofficecli"/>
         </p>
     </div>
-    </details>
+  </details>
 * <details>
-    <summary>Document Extractive Summary Service & Research</summary>
+    <summary>Document Extractive Summary Service</summary>
     <div markdown="1">
     <br>
 
-    - 원문의 변형 없이 주요한 문장을 추출하여 요약해주는 모델 개발
+    - 원문의 변형 없이 주요한 문장을 추출하여 요약해주는 서비스.
     - T3Q Inc., AI Service Engineer (intern) | 2023.08 ~ 2023.09
     - 역할: `데이터 분석`, `데이터 전처리`, `임베딩 실험`
     - tech stack
@@ -121,14 +117,8 @@
         <img src="https://img.shields.io/badge/Hugging Face-FF6F00?style=plastic&logo=HuggingFace&logoColor=white" alt="huggingface"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white" alt="docker"/>
         </p>
-        <p align="left">
-        <img src="https://img.shields.io/badge/BERTSUM-3776AB?style=plastic&logo=&logoColor=white" alt="BERTSUM"/>
-        <img src="https://img.shields.io/badge/BERT-3776AB?style=plastic&logo=&logoColor=white" alt="bert"/>
-        <img src="https://img.shields.io/badge/RoBERTa-3776AB?style=plastic&logo=&logoColor=white" alt="roberta"/>
-        <img src="https://img.shields.io/badge/BigBird-3776AB?style=plastic&logo=&logoColor=white" alt="bigbird"/>
-        </p>
     </div>
-    </details>
+  </details>
 * <details>
     <summary>
     Multi-Modal Recommenders Systems: Focusing on Restaurant Industry (<a href="https://github.com/bkkhyunn/CJONS-4" target="_blank">Link</a>)
@@ -152,7 +142,7 @@
         <img src="https://img.shields.io/badge/Wandb-FFBE00?style=plastic&logo=weightsandbiases&logoColor=white" alt="wandb"/>
         </p>
     </div>
-    </details>
+  </details>
 * <details>
     <summary>
     AI Black Ice Detection (<a href="https://github.com/bkkhyunn/SW_TEAM5" target="_blank">Link</a>)
@@ -173,17 +163,16 @@
         <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium&logoColor=white" alt="selenium"/>
         </p>
     </div>
-    </details>
+  </details>
 * <details>
     <summary>Others</summary>
     <div markdown="1">
     <br>
 
-    - NAVER Connect Foundation boostcamp AI Tech 6th 에서 진행한 팀 프로젝트들
-      - [마스크 착용 상태 분류](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_1)
-      - [재활용 품목 분류를 위한 Object Detection](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_2)
-      - [글자 검출 프로젝트](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_3)
-      - [Hand Bone Image Segmentation](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_4)
+    - 마스크 착용 상태 분류 ([Link](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_1))
+    - 재활용 품목 분류를 위한 Object Detection ([Link](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_2))
+    - 글자 검출 프로젝트 ([Link](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_3))
+    - Hand Bone Image Segmentation ([Link](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_4))
     - tech stack
         <p align="left">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" alt="linux"/>
@@ -198,7 +187,7 @@
         <img src="https://img.shields.io/badge/Wandb-FFBE00?style=plastic&logo=weightsandbiases&logoColor=white" alt="wandb"/>
         </p>
     </div>
-    </details>
+  </details>
 
 ---
 
