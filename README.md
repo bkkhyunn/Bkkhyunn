@@ -52,7 +52,8 @@
     Real-time Unmanned Store Abnormal Behavior Detection (<a href="https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_Final" target="_blank">Link</a>)
     </summary>
     <div markdown="1">
-
+    <br>
+    
     - 무인매장에 설치된 CCTV 를 활용하여 실시간으로 이상행동을 탐지하고, 사후 처리를 위해서 녹화 영상 내 이상행동 타임라인 제공 및 스크린샷 앨범 기능을 제공하는 서비스.
     - NAVER Connect Foundation boostcamp AI Tech 6th | 2024.03 ~ 2024.04
     - 맡은 역할: `팀장`, `서비스 기획 및 전체 파이프라인 설계`, `DB 설계`, `WAS 개발`, `실시간 통신 구현`, `LSTM Autoencoder 구현`
