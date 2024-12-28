@@ -194,7 +194,6 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=bkkhyunn&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bkkhyunn&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=bkkhyunn&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <a href="https://github.com/bkkhyunn"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbkkhyunn&count_bg=%23EB8B07&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITs&edge_flat=false"/></a>
 </p>
