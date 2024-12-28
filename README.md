@@ -1,41 +1,40 @@
-<h1 align='center'>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=35&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=500&lines=ML%2FAI+Engineer%2C+Bkkhyunn+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&color=47F7F5&center=true&vCenter=true&multiline=true&random=false&height=60&lines=%F0%9F%91%8B+Hello!+Bkkhyunn's+github)](https://github.com/bkkhyunn)
-
-</h1>
-
-<p align="center">
-<a href="mailto:toiquen419@gmail.com"><img img src="https://img.shields.io/badge/GMAIL-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://github.com/bkkhyunn"><img src="https://img.shields.io/badge/bkkhyunn-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="Github"/></a>
-<a href="https://bkkhyunn.github.io"><img src="https://img.shields.io/badge/bkkhyunn's_blog-green?style=plastic&logo=githubpages&logoColor=white"/></a>
+<p>
+    <a href="mailto:toiquen419@gmail.com"><img img src="https://img.shields.io/badge/GMAIL-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://github.com/bkkhyunn"><img src="https://img.shields.io/badge/bkkhyunn-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="Github"/></a>
+    <a href="https://bkkhyunn.github.io"><img src="https://img.shields.io/badge/bkkhyunn's_note-green?style=plastic&logo=githubpages&logoColor=white"/></a>
 </p>
 
-### 🧑🏻‍💻 I am
+---
 
-- 🔥 I want to be an AI engineer who mediates the world and people.
-- 🌱 I’m currently learning `Deep Learning`, `Machine Learning`, `MLOps`, `Web Programming`, `Data Analysis`, `Statistics`, `linear algebra`, `Algorithm`, `Data Structure`
+### 🧑🏻‍💻 About Me
+- 🔥 I want to be an ML/AI engineer who mediates the world and people.
+- 🌱 I am currently learning `Deep Learning`, `Machine Learning`, `MLOps`, `Web Programming`, `Data Analysis`, `Statistics`, `linear algebra`, `Algorithm`, `Data Structure`
+- 💡 I am interested in service-oriented AI related to `Computer Vision`, `Multi Modal` and `Anomaly Detection`. I also like working with `Bigdata`.
 - ⚡️ My keywords are `Driven`, `Team-Oriented`, `Energetic`
 
-### 🏃🏻 Experiences
+### 🏢 Carrers
+- (2025.01 ~ 2025.03) AT Kearney Korea, Research Assistant (intern)
+- (2023.08 ~ 2023.10) T3Q Inc., AI Service Engineer (intern)
 
-- 🟫 [Team Project] **HangHae99 AI Web service Hackathon** (2024.05.31 ~ 2024.06.01)
-- 🟩 [Team Project] **NAVER Connect Foundation boostcamp AI Tech 6th** (2023.11.06 ~ 2024.04.02)
-- 🟦 [Internship] **T3Q Inc. AI Service Engineer** (2023.08.01 ~ 2023.10.31)
-- 🟧 [Team Project] **CJ ons ICT IS 1th** (2023.07 ~ 2023.08)
-- 🟥 [Team Project] **KOR SW_Academy 2th** (2023.03.02 ~ 2023.06.21)
-
+### 🏃🏻 Educations
+- (2023.11 ~ 2024.04) NAVER Connect Foundation boostcamp AI Tech 6th
+- (2023.07 ~ 2023.08) CJ ONS/ICT IS AI Advanced course 1th
+- (2023.03 ~ 2023.06) Korea University SW Academy 2th
+- (2017.03 ~ 2023.02) B.S Media and Communication in Kyoung Hee University, Seoul
 
 ### 🗂️ Projects
-- 🟫 [Digital literacy promotion program using AI](https://github.com/bkkhyunn/Hanghae99_hackathon)
-    <details>
-    <summary>summary</summary>
-    <div markdown="1">
-    <br>
-    1️⃣ 디지털 문해력을 증진시키는 AI 애클리케이션을 개발하여, 논리적 사고와 판단을 증진시키고 교육 불평등을 해소하고자 만든 서비스
+<details style="padding-left: 20px;">
+<summary>
+Digital literacy promotion program using AI (<a href="https://github.com/bkkhyunn/Hanghae99_hackathon" target="_blank">Link</a>)
+</summary>
+<div markdown="1">
 
-    2️⃣ 역할: `Web Page 개발`, `프롬프트 엔지니어링`
-
-    3️⃣ tech stack
+- 디지털 문해력을 증진시키는 AI 애클리케이션을 개발하여, 논리적 사고와 판단을 증진시키고 교육 불평등을 해소하고자 만든 서비스.
+- HangHae99 AI Web service Hackathon | 2024.05.31 ~ 2024.06.01
+- 맡은 역할: `Web Page 개발`, `프롬프트 엔지니어링`
+- tech stack
     <p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" alt="python"/>
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=langchain&logoColor=white" alt="langchain"/>
@@ -47,19 +46,19 @@
     <img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=SQLite&logoColor=white" alt="sqlite"/>
     <img src="https://img.shields.io/badge/Poetry-60A5FA?style=plastic&logo=poetry&logoColor=white" alt="poetry"/>
     </p>
-    </div>
-    </details>
+</div>
+</details>
 
-- 🟩 [Real-time Unmanned Store Abnormal Behavior Detection Service](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_Final)
-    <details>
-    <summary>summary</summary>
-    <div markdown="1">
-    <br>
-    1️⃣ 무인매장에 설치된 CCTV 를 활용하여 실시간으로 이상행동을 탐지하고, 사후 처리를 위해서 녹화 영상 내 이상행동 타임라인 제공 및 스크린샷 앨범 기능을 제공하는 서비스.
+<details style="padding-left: 20px;">
+<summary>
+Real-time Unmanned Store Abnormal Behavior Detection Service (<a href="https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_Final" target="_blank">Link</a>)
+</summary>
+<div markdown="1">
 
-    2️⃣ 역할: `팀장(PM)`, `서비스 기획 및 전체 파이프라인 설계`, `DB 설계`, `WAS 개발`, `실시간 통신 구현`, `LSTM Autoencoder 를 활용한 이상탐지 모델 구현`
-
-    3️⃣ tech stack
+- 무인매장에 설치된 CCTV 를 활용하여 실시간으로 이상행동을 탐지하고, 사후 처리를 위해서 녹화 영상 내 이상행동 타임라인 제공 및 스크린샷 앨범 기능을 제공하는 서비스.
+- NAVER Connect Foundation boostcamp AI Tech 6th | 2024.03 ~ 2024.04
+- 맡은 역할: `팀장`, `서비스 기획 및 전체 파이프라인 설계`, `DB 설계`, `WAS 개발`, `실시간 통신 구현`, `LSTM Autoencoder 를 활용한 이상탐지 모델 구현`
+- tech stack
     <p align="left">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" alt="linux"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" alt="python"/>
@@ -82,19 +81,19 @@
     <img src="https://img.shields.io/badge/Yolov8-3776AB?style=plastic&logo=&logoColor=white" alt="yolov8"/>
     <img src="https://img.shields.io/badge/LSTMAE-3776AB?style=plastic&logo=&logoColor=white" alt="lstmae"/>
     </p>
-    </div>
-    </details>
+</div>
+</details>
     
-- 🟦 **Identify and extract key information PoC**
-    <details>
-    <summary>summary</summary>
-    <div markdown="1">
-    <br>
-    1️⃣ 사내에서 유통되는 문서 및 도면을 대상으로 AI 를 활용한 핵심정보 식별 및 분류 자동화 PoC
+<details style="padding-left: 20px;">
+<summary>
+Identify and extract key information PoC
+</summary>
+<div markdown="1">
 
-    2️⃣ 역할: `문서 Lake 구축 보조`, `OCR 및 핵심 영역 식별`
-
-    3️⃣ tech stack
+- 사내에서 유통되는 문서 및 도면을 대상으로 AI 를 활용한 핵심정보 식별 및 분류 자동화 PoC
+- T3Q Inc., AI Service Engineer (intern) | 2023.09 ~ 2023.10
+- 역할: `문서 Lake 구축 보조`, `OCR 및 핵심 영역 식별`
+- tech stack
     <p align="left">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" alt="linux"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" alt="python"/>
@@ -106,19 +105,17 @@
     <img src="https://img.shields.io/badge/Amazon S3-569A31?style=plastic&logo=amazons3&logoColor=white" alt="amazon s3"/>
     <img src="https://img.shields.io/badge/LibreofficeCLI-18A303?style=plastic&logo=libreoffice&logoColor=white" alt="libreofficecli"/>
     </p>
-    </div>
-    </details>
+</div>
+</details>
 
-- 🟦 **Document Extractive Summary Service & Research**
-    <details>
-    <summary>summary</summary>
-    <div markdown="1">
-    <br>
-    1️⃣ 원문의 변형 없이 주요한 문장을 추출하여 요약해주는 모델 개발
+<details style="padding-left: 20px;">
+<summary>Document Extractive Summary Service & Research</summary>
+<div markdown="1">
 
-    2️⃣ 역할: `데이터 분석`, `데이터 전처리`, `임베딩 실험`
-
-    3️⃣ tech stack
+- 원문의 변형 없이 주요한 문장을 추출하여 요약해주는 모델 개발
+- T3Q Inc., AI Service Engineer (intern) | 2023.08 ~ 2023.09
+- 역할: `데이터 분석`, `데이터 전처리`, `임베딩 실험`
+- tech stack
     <p align="left">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" alt="linux"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" alt="python"/>
@@ -132,19 +129,19 @@
     <img src="https://img.shields.io/badge/RoBERTa-3776AB?style=plastic&logo=&logoColor=white" alt="roberta"/>
     <img src="https://img.shields.io/badge/BigBird-3776AB?style=plastic&logo=&logoColor=white" alt="bigbird"/>
     </p>
-    </div>
-    </details>
+</div>
+</details>
 
-- 🟧 [Multi-Modal Recommenders Systems: Focusing on Restaurant Industry](https://github.com/bkkhyunn/CJONS-4)
-    <details>
-    <summary>summary</summary>
-    <div markdown="1">
-    <br>
-    1️⃣ 멀티모달(텍스트, 이미지)을 이용한 식당 추천 시스템 구현
+<details style="padding-left: 20px;">
+<summary>
+Multi-Modal Recommenders Systems: Focusing on Restaurant Industry (<a href="https://github.com/bkkhyunn/CJONS-4" target="_blank">Link</a>)
+</summary>
+<div markdown="1">
 
-    2️⃣ 역할: `데이터 분석`, `ResNet 구현`
-
-    3️⃣ tech stack
+- 멀티모달(텍스트, 이미지)을 이용한 식당 추천 시스템 구현
+- CJ ONS/ICT IS AI Advanced course 1th | 2023.07 ~ 2023.08
+- 역할: `팀장`, `데이터 분석`, `ResNet 구현`
+- tech stack
     <p align="left">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" alt="linux"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" alt="python"/>
@@ -156,19 +153,19 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white" alt="docker"/>
     <img src="https://img.shields.io/badge/Wandb-FFBE00?style=plastic&logo=weightsandbiases&logoColor=white" alt="wandb"/>
     </p>
-    </div>
-    </details>
+</div>
+</details>
 
-- 🟥 [AI Black Ice Detection](https://github.com/bkkhyunn/SW_TEAM5)
-    <details>
-    <summary>summary</summary>
-    <div markdown="1">
-    <br>
-    1️⃣ AI 를 활용한 블랙아이스 탐지<br>
-    
-    2️⃣ 역할: `팀장`, `데이터 수집`, `데이터 전처리 및 라벨링`, `Data Augmentation`, `모델 실험`
+<details style="padding-left: 20px;">
+<summary>
+AI Black Ice Detection (<a href="https://github.com/bkkhyunn/SW_TEAM5" target="_blank">Link</a>)
+</summary>
+<div markdown="1">
 
-    3️⃣ tech stack
+- AI 를 활용한 블랙아이스 탐지
+- Korea University SW Academy 2th | 2023.05 ~ 2023.06
+- 역할: `팀장`, `데이터 수집`, `데이터 전처리 및 라벨링`, `Data Augmentation`, `모델 실험`
+- tech stack
     <p align="left">
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white" alt="googlecolab"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" alt="python"/>
@@ -177,25 +174,19 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white" alt="torch"/>
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium&logoColor=white" alt="selenium"/>
     </p>
-    </div>
-    </details>
+</div>
+</details>
 
-- ⬜️ Others
-  <details>
-    <summary>summary</summary>
-    <div markdown="1">
-    <br>
+<details style="padding-left: 20px;">
+<summary>Others</summary>
+<div markdown="1">
 
-    🟩 NAVER Connect Foundation boostcamp AI Tech 6th 에서 진행한 팀 프로젝트들
-
-    1.[마스크 착용 상태 분류](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_1)
-
-    2.[재활용 품목 분류를 위한 Object Detection](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_2)
-
-    3.[글자 검출 프로젝트](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_3)
-
-    4.[Hand Bone Image Segmentation](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_4)
-
+- NAVER Connect Foundation boostcamp AI Tech 6th 에서 진행한 팀 프로젝트들
+  - [마스크 착용 상태 분류](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_1)
+  - [재활용 품목 분류를 위한 Object Detection](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_2)
+  - [글자 검출 프로젝트](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_3)
+  - [Hand Bone Image Segmentation](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_4)
+- tech stack
     <p align="left">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" alt="linux"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" alt="python"/>
@@ -208,8 +199,8 @@
     <img src="https://img.shields.io/badge/Poetry-60A5FA?style=plastic&logo=poetry&logoColor=white" alt="poetry"/>
     <img src="https://img.shields.io/badge/Wandb-FFBE00?style=plastic&logo=weightsandbiases&logoColor=white" alt="wandb"/>
     </p>
-    </div>
-    </details>
+</div>
+</details>
 
 ---
 
