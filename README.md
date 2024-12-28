@@ -180,10 +180,10 @@
     <br>
 
     - NAVER Connect Foundation boostcamp AI Tech 6th 에서 진행한 팀 프로젝트들
-    - [마스크 착용 상태 분류](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_1)
-    - [재활용 품목 분류를 위한 Object Detection](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_2)
-    - [글자 검출 프로젝트](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_3)
-    - [Hand Bone Image Segmentation](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_4)
+      - [마스크 착용 상태 분류](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_1)
+      - [재활용 품목 분류를 위한 Object Detection](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_2)
+      - [글자 검출 프로젝트](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_3)
+      - [Hand Bone Image Segmentation](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_4)
     - tech stack
         <p align="left">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" alt="linux"/>
