@@ -8,7 +8,7 @@
 
 ### 🧑🏻‍💻 About Me
 - 🔥 I want to be an ML/AI engineer who mediates the world and people.
-- 🌱 I am currently learning `ML/DL`, `MLOps`, `Data Analysis`, `Statistics`, `linear algebra`, `Web Programming`
+- 🌱 I am currently learning `ML/DL`, `MLOps`, `Data Analysis`, `Statistics`, `Linear Algebra`, `Optimization`, `Web Programming`, `Data Engineering`
 - 💡 I am interested in service-oriented AI related to `Computer Vision`, `Multi Modal` and `Anomaly Detection`. I also like working with `Bigdata` from various domains.
 - ⚡️ My keywords are `Driven`, `Team-Oriented`, `Energetic`
 
