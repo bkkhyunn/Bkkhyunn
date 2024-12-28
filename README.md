@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=35&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=500&lines=ML%2FAI+Engineer%2C+Bkkhyunn+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=35&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=500&lines=ML%2FAI+Engineer%2C+Bkkhyunn+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 <p>
     <a href="mailto:toiquen419@gmail.com"><img img src="https://img.shields.io/badge/GMAIL-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -24,8 +24,7 @@
 
 ### 🗂️ Projects
 
-<div style="padding-left: 20px;">
-<details style="padding-left: 20px;">
+&nbsp; &nbsp; &nbsp;<details style="padding-left: 20px;">
 <summary>
 Digital literacy promotion program using AI (<a href="https://github.com/bkkhyunn/Hanghae99_hackathon" target="_blank">Link</a>)
 </summary>
@@ -58,7 +57,7 @@ Real-time Unmanned Store Abnormal Behavior Detection Service (<a href="https://g
 
 - 무인매장에 설치된 CCTV 를 활용하여 실시간으로 이상행동을 탐지하고, 사후 처리를 위해서 녹화 영상 내 이상행동 타임라인 제공 및 스크린샷 앨범 기능을 제공하는 서비스.
 - NAVER Connect Foundation boostcamp AI Tech 6th | 2024.03 ~ 2024.04
-- 맡은 역할: `팀장`, `서비스 기획 및 전체 파이프라인 설계`, `DB 설계`, `WAS 개발`, `실시간 통신 구현`, `LSTM Autoencoder 를 활용한 이상탐지 모델 구현`
+- 맡은 역할: `팀장`, `서비스 기획 및 전체 파이프라인 설계`, `DB 설계`, `WAS 개발`, `실시간 통신 구현`, `LSTM Autoencoder 구현`
 - tech stack
     <p align="left">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" alt="linux"/>
@@ -207,7 +206,6 @@ AI Black Ice Detection (<a href="https://github.com/bkkhyunn/SW_TEAM5" target="_
     </p>
 </div>
 </details>
-</div>
 
 ---
 
