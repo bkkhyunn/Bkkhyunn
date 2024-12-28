@@ -47,7 +47,6 @@
         </p>
     </div>
     </details>
-
 * <details>
     <summary>
     Real-time Unmanned Store Abnormal Behavior Detection Service (<a href="https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_Final" target="_blank">Link</a>)
@@ -82,7 +81,6 @@
         </p>
     </div>
     </details>
-
 * <details>
     <summary>
     Identify and extract key information PoC
@@ -107,7 +105,6 @@
         </p>
     </div>
     </details>
-
 * <details>
     <summary>Document Extractive Summary Service & Research</summary>
     <div markdown="1">
@@ -132,7 +129,6 @@
         </p>
     </div>
     </details>
-
 * <details>
     <summary>
     Multi-Modal Recommenders Systems: Focusing on Restaurant Industry (<a href="https://github.com/bkkhyunn/CJONS-4" target="_blank">Link</a>)
@@ -157,7 +153,6 @@
         </p>
     </div>
     </details>
-
 * <details>
     <summary>
     AI Black Ice Detection (<a href="https://github.com/bkkhyunn/SW_TEAM5" target="_blank">Link</a>)
@@ -179,7 +174,6 @@
         </p>
     </div>
     </details>
-
 * <details>
     <summary>Others</summary>
     <div markdown="1">
