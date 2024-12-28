@@ -6,8 +6,6 @@
     <a href="https://bkkhyunn.github.io"><img src="https://img.shields.io/badge/bkkhyunn's_note-green?style=plastic&logo=githubpages&logoColor=white"/></a>
 </p>
 
----
-
 ### 🧑🏻‍💻 About Me
 - 🔥 I want to be an ML/AI engineer who mediates the world and people.
 - 🌱 I am currently learning `Deep Learning`, `Machine Learning`, `MLOps`, `Web Programming`, `Data Analysis`, `Statistics`, `linear algebra`, `Algorithm`, `Data Structure`
@@ -25,11 +23,14 @@
 - (2017.03 ~ 2023.02) B.S Media and Communication in Kyoung Hee University, Seoul
 
 ### 🗂️ Projects
+
+<div style="padding-left: 20px;">
 <details style="padding-left: 20px;">
 <summary>
 Digital literacy promotion program using AI (<a href="https://github.com/bkkhyunn/Hanghae99_hackathon" target="_blank">Link</a>)
 </summary>
 <div markdown="1">
+<br>
 
 - 디지털 문해력을 증진시키는 AI 애클리케이션을 개발하여, 논리적 사고와 판단을 증진시키고 교육 불평등을 해소하고자 만든 서비스.
 - HangHae99 AI Web service Hackathon | 2024.05.31 ~ 2024.06.01
@@ -89,6 +90,7 @@ Real-time Unmanned Store Abnormal Behavior Detection Service (<a href="https://g
 Identify and extract key information PoC
 </summary>
 <div markdown="1">
+<br>
 
 - 사내에서 유통되는 문서 및 도면을 대상으로 AI 를 활용한 핵심정보 식별 및 분류 자동화 PoC
 - T3Q Inc., AI Service Engineer (intern) | 2023.09 ~ 2023.10
@@ -111,6 +113,7 @@ Identify and extract key information PoC
 <details style="padding-left: 20px;">
 <summary>Document Extractive Summary Service & Research</summary>
 <div markdown="1">
+<br>
 
 - 원문의 변형 없이 주요한 문장을 추출하여 요약해주는 모델 개발
 - T3Q Inc., AI Service Engineer (intern) | 2023.08 ~ 2023.09
@@ -137,6 +140,7 @@ Identify and extract key information PoC
 Multi-Modal Recommenders Systems: Focusing on Restaurant Industry (<a href="https://github.com/bkkhyunn/CJONS-4" target="_blank">Link</a>)
 </summary>
 <div markdown="1">
+<br>
 
 - 멀티모달(텍스트, 이미지)을 이용한 식당 추천 시스템 구현
 - CJ ONS/ICT IS AI Advanced course 1th | 2023.07 ~ 2023.08
@@ -161,6 +165,7 @@ Multi-Modal Recommenders Systems: Focusing on Restaurant Industry (<a href="http
 AI Black Ice Detection (<a href="https://github.com/bkkhyunn/SW_TEAM5" target="_blank">Link</a>)
 </summary>
 <div markdown="1">
+<br>
 
 - AI 를 활용한 블랙아이스 탐지
 - Korea University SW Academy 2th | 2023.05 ~ 2023.06
@@ -180,6 +185,7 @@ AI Black Ice Detection (<a href="https://github.com/bkkhyunn/SW_TEAM5" target="_
 <details style="padding-left: 20px;">
 <summary>Others</summary>
 <div markdown="1">
+<br>
 
 - NAVER Connect Foundation boostcamp AI Tech 6th 에서 진행한 팀 프로젝트들
   - [마스크 착용 상태 분류](https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_1)
@@ -201,6 +207,7 @@ AI Black Ice Detection (<a href="https://github.com/bkkhyunn/SW_TEAM5" target="_
     </p>
 </div>
 </details>
+</div>
 
 ---
 
