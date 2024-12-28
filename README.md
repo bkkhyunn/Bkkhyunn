@@ -8,19 +8,19 @@
 
 ### 🧑🏻‍💻 About Me
 - 🔥 I want to be an ML/AI engineer who mediates the world and people.
-- 🌱 I am currently learning `Deep Learning`, `Machine Learning`, `MLOps`, `Web Programming`, `Data Analysis`, `Statistics`, `linear algebra`, `Algorithm`, `Data Structure`
-- 💡 I am interested in service-oriented AI related to `Computer Vision`, `Multi Modal` and `Anomaly Detection`. I also like working with `Bigdata`.
+- 🌱 I am currently learning `ML/DL`, `MLOps`, `Data Analysis`, `Statistics`, `linear algebra`, `Web Programming`
+- 💡 I am interested in service-oriented AI related to `Computer Vision`, `Multi Modal` and `Anomaly Detection`. I also like working with `Bigdata` from various domains.
 - ⚡️ My keywords are `Driven`, `Team-Oriented`, `Energetic`
 
 ### 🏢 Carrers
-- (2025.01 ~ 2025.03) AT Kearney Korea, Research Assistant (intern)
-- (2023.08 ~ 2023.10) T3Q Inc., AI Service Engineer (intern)
+- AT Kearney Korea, Research Assistant (intern) (2025.01 ~ 2025.03)
+- T3Q Inc., AI Service Engineer (intern) (2023.08 ~ 2023.10)
 
 ### 🏃🏻 Educations
-- (2023.11 ~ 2024.04) NAVER Connect Foundation boostcamp AI Tech 6th
-- (2023.07 ~ 2023.08) CJ ONS/ICT IS AI Advanced course 1th
-- (2023.03 ~ 2023.06) Korea University SW Academy 2th
-- (2017.03 ~ 2023.02) B.S Media and Communication in Kyoung Hee University, Seoul
+- NAVER Connect Foundation boostcamp AI Tech 6th (2023.11 ~ 2024.04)
+- CJ ONS/ICT IS AI Advanced course 1th (2023.07 ~ 2023.08)
+- Korea University SW Academy 2th (2023.03 ~ 2023.06)
+- B.S Media and Communication in Kyoung Hee University, Seoul (2017.03 ~ 2023.02)
 
 ### 🗂️ Projects
 * <details>
@@ -46,7 +46,7 @@
         <img src="https://img.shields.io/badge/Poetry-60A5FA?style=plastic&logo=poetry&logoColor=white" alt="poetry"/>
         </p>
     </div>
-    </details>
+  </details>
 * <details>
     <summary>
     Real-time Unmanned Store Abnormal Behavior Detection Service (<a href="https://github.com/bkkhyunn/NAVER_CONNECT_AI_Tech_6th_Team_Project_Final" target="_blank">Link</a>)
