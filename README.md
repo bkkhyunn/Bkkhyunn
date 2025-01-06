@@ -18,8 +18,8 @@
 
 ### 🏃🏻 Educations
 - NAVER Connect Foundation boostcamp AI Tech 6th (2023.11 ~ 2024.04)
-- CJ ONS/ICT IS AI Advanced course 1th (2023.07 ~ 2023.08)
-- Korea University SW Academy 2th (2023.03 ~ 2023.06)
+- CJ ONS/ICT IS AI Advanced course 1st (2023.07 ~ 2023.08)
+- Korea University SW Academy 2nd (2023.03 ~ 2023.06)
 - B.S Media and Communication in Kyoung Hee University, Seoul (2017.03 ~ 2023.02)
 
 ### 🗂️ Projects
